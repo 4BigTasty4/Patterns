@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\obj\Debug\net6.0\C# Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\obj\Debug\net6.0\C# Factory Method.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\obj\Debug\net6.0\C# Factory Method.AssemblyInfo.cs
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\obj\Debug\net6.0\C# Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\bin\Debug\net6.0\C# Factory Method.exe
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\bin\Debug\net6.0\C# Factory Method.deps.json
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\bin\Debug\net6.0\C# Factory Method.runtimeconfig.json
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\bin\Debug\net6.0\C# Factory Method.dll
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\bin\Debug\net6.0\C# Factory Method.pdb
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\obj\Debug\net6.0\C# Factory Method.dll
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\obj\Debug\net6.0\refint\C# Factory Method.dll
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\obj\Debug\net6.0\C# Factory Method.pdb
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\obj\Debug\net6.0\C# Factory Method.genruntimeconfig.cache
+C:\Users\user\Desktop\Programing'\C# Factory Method\C# Factory Method\C# Factory Method\obj\Debug\net6.0\ref\C# Factory Method.dll
