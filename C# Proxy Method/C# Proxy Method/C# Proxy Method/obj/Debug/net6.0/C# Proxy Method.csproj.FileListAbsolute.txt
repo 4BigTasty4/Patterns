@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\obj\Debug\net6.0\C# Proxy Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\obj\Debug\net6.0\C# Proxy Method.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\obj\Debug\net6.0\C# Proxy Method.AssemblyInfo.cs
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\obj\Debug\net6.0\C# Proxy Method.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\bin\Debug\net6.0\C# Proxy Method.exe
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\bin\Debug\net6.0\C# Proxy Method.deps.json
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\bin\Debug\net6.0\C# Proxy Method.runtimeconfig.json
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\bin\Debug\net6.0\C# Proxy Method.dll
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\bin\Debug\net6.0\C# Proxy Method.pdb
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\obj\Debug\net6.0\C# Proxy Method.dll
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\obj\Debug\net6.0\refint\C# Proxy Method.dll
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\obj\Debug\net6.0\C# Proxy Method.pdb
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\obj\Debug\net6.0\C# Proxy Method.genruntimeconfig.cache
+C:\Users\user\Desktop\Programing\C# Proxy Method\C# Proxy Method\C# Proxy Method\obj\Debug\net6.0\ref\C# Proxy Method.dll
