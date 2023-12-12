@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\bin\Debug\net6.0\C# State Patern.exe
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\bin\Debug\net6.0\C# State Patern.deps.json
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\bin\Debug\net6.0\C# State Patern.runtimeconfig.json
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\bin\Debug\net6.0\C# State Patern.dll
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\bin\Debug\net6.0\C# State Patern.pdb
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\obj\Debug\net6.0\C# State Patern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\obj\Debug\net6.0\C# State Patern.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\obj\Debug\net6.0\C# State Patern.AssemblyInfo.cs
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\obj\Debug\net6.0\C# State Patern.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\obj\Debug\net6.0\C# State Patern.dll
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\obj\Debug\net6.0\refint\C# State Patern.dll
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\obj\Debug\net6.0\C# State Patern.pdb
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\obj\Debug\net6.0\C# State Patern.genruntimeconfig.cache
+C:\Users\user\Desktop\Programing\C# State Patern\C# State Patern\C# State Patern\obj\Debug\net6.0\ref\C# State Patern.dll
